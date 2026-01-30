@@ -1,0 +1,6 @@
+@SistemaProcessosSeletivos.API_HostAddress = http://localhost:5104
+
+GET {{SistemaProcessosSeletivos.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
